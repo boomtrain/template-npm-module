@@ -7,7 +7,7 @@ A [Khaos](http://khaos.io/) template to quickly start new npm modules
 Save the template locally with:
 
 ```
-$ khaos install boomtrain/template-npm-module
+$ khaos install boomtrain/template-npm-module npm-module
 ```
 
 ## Usage
@@ -15,5 +15,5 @@ $ khaos install boomtrain/template-npm-module
 Create a new module with:
 
 ```
-$ khaos template-npm-module <new-module-name>
+$ khaos npm-module <new-module-name>
 ```
