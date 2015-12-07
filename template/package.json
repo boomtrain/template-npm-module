@@ -1,0 +1,19 @@
+{
+  "name": "{{basename}}",
+  "description": "{{description}}",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape tests.js"
+  },
+  "devDependencies": {
+    "standard": "^5.3.1",
+    "tape": "^4.2.1"
+  },
+  "repository": "git://github.com/boomtrain/{{basename}}.git",
+  "author": "Boomtrain",{{#mit}}
+  "license": "MIT",{{/mit}}
+  "bugs": {
+    "url": "https://github.com/boomtrain/{{basename}}/issues"
+  }
+}
