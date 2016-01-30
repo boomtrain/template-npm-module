@@ -18,7 +18,7 @@
 ## Install
 
 ``` bash
-$ npm install {{basename}}
+$ npm install @boomtrain/{{basename}}
 ```
 
 {{#mit}}
